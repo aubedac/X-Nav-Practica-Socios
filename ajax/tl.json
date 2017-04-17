@@ -1,0 +1,44 @@
+  [
+    {
+    "autor" : "Platón",
+    "avatar" : "images/platon.png",
+    "titulo": "Reflexiones...",
+    "contenido": "La acumulación excesiva de algo causa una reacción en la dirección opuesta.",
+    "fecha" : "16-04-2017"
+  },
+  {
+    "autor" : "Descartes",
+    "avatar" : "images/descartes.png",
+    "titulo": "Cogito ergo sum.",
+    "contenido": "Pienso y dudo, luego existo.",
+    "fecha" : "15-04-2017"
+  },
+  {
+    "autor" : "Kant",
+    "avatar" : "images/kant.png",
+    "titulo": "Crítica a la razón pura.",
+    "contenido": "El sabio puede cambiar de opinión. El necio, nunca.",
+    "fecha" : "14-04-2017"
+  },
+  {
+    "autor" : "Ortega_Y_Gasset",
+    "avatar" : "images/ortega.png",
+    "titulo": "España invertebrada.",
+    "contenido": "El hombre no tiene naturaleza, sólo historia.",
+    "fecha" : "13-04-2017"
+  },
+  {
+    "autor" : "Nietzsche",
+    "avatar" : "images/nietzsche.png",
+    "titulo": "Pensamientos...",
+    "contenido": "El remordimiento es como la morderdura de un perro en un piedra: una tontería",
+    "fecha" : "12-04-2017"
+  },
+  {
+    "autor" : "Descartes",
+    "avatar" : "images/descartes.png",
+    "titulo": "¿Qué prefiero...?",
+    "contenido": "Hasta una falsa alegría suele ser preferible a una verdadera tristeza.",
+    "fecha" : "11-04-2017"
+  }
+]

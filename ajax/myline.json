@@ -1,0 +1,30 @@
+[
+    {
+      "autor" : "sum41",
+      "avatar" : "images/myAvatar.png",
+      "titulo": "Primer post.",
+      "contenido": "Probando mi TL.",
+      "fecha" : "17-04-2017"
+    },
+    {
+      "autor" : "sum41",
+      "avatar" : "images/myAvatar.png",
+      "titulo": "Yo no soy marinero...",
+      "contenido": "Soy un delfín, soy un delfín.",
+      "fecha" : "17-04-2017"
+    },
+    {
+      "autor" : "sum41",
+      "avatar" : "images/myAvatar.png",
+      "titulo": "new Thread();",
+      "contenido": "¿Me he vuelto loco ya?... ¿Y ahora?",
+      "fecha" : "17-04-2017"
+    },
+    {
+      "autor" : "sum41",
+      "avatar" : "images/myAvatar.png",
+      "titulo": "Ciudades graciosas de USA.",
+      "contenido": "wala wala, cucamonga, cancuc, seattle",
+      "fecha" : "17-04-2017"
+    }
+]

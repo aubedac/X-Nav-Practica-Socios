@@ -1,0 +1,16 @@
+[
+    {
+      "autor" : "Descartes",
+      "avatar" : "images/descartes.png",
+      "titulo": "Probando update...",
+      "contenido": "¿Funcionará...?",
+      "fecha" : "17-04-2017"
+    },
+    {
+      "autor" : "Kant",
+      "avatar" : "images/kant.png",
+      "titulo": "Probando update v2.0...",
+      "contenido": "Si no, no si.",
+      "fecha" : "17-04-2017"
+    }
+]
